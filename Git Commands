@@ -1,0 +1,21 @@
+Git commands
+----------------------------
+//to register eith system details
+git config --global user.email "utsavg@vrajatechnologies.com"
+git config --global user.name "gohelutsav"
+
+// to copy the repo from github
+git clone https://github.com/gohelutsav/python.git
+
+git status
+
+git diff
+
+// saves file in internal system
+git commit -m "new file"
+
+// to know any updates from another
+git pull origin main
+
+//to upload code in server
+git push origin main
